@@ -11,6 +11,12 @@ make
 
 ./main
 ```
+
+The structure of the ANN is the following
+![ANN structure](images/ANN_structure.PNG)
+
+
+
 The instructions when running the code
 ![Instructions](images/Instructions.PNG)
 
@@ -24,10 +30,6 @@ You can first train the ANN as many time as you want
 Then you can compute a specific value for the XOR logic gate 
 ![Test instructions](images/Test.PNG)
 
-
-
-The structure of the ANN is the following
-![ANN structure](images/ANN_structure.PNG)
 
 
 
