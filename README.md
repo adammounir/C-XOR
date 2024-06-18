@@ -3,7 +3,7 @@
 
 This project is a first initiation to the Deep Learning field using the programmation language C. 
 
-Commmand to execute the code: 
+Commmand to execute the code (project includes a Makefile): 
 ```bash
 make clean
 
