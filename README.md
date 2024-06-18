@@ -12,15 +12,17 @@ make
 ./main
 ```
 
+The structure of the ANN is the following
+![ANN structure](images/ANN_structure.PNG)
+
+The values of the XOR logic gate are the following: 
 | Input A | Input B | Output (XOR) |
 |---------|---------|--------------|
 |    0    |    0    |      0       |
 |    0    |    1    |      1       |
 |    1    |    0    |      1       |
 |    1    |    1    |      0       |
-
-The structure of the ANN is the following
-![ANN structure](images/ANN_structure.PNG)
+This means that (0,0) should give a result approaching 0, (0,1) a result approaching 1, and so on...
 
 
 The instructions when running the code
