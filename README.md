@@ -12,6 +12,13 @@ make
 ./main
 ```
 
+| Input A | Input B | Output (XOR) |
+|---------|---------|--------------|
+|    0    |    0    |      0       |
+|    0    |    1    |      1       |
+|    1    |    0    |      1       |
+|    1    |    1    |      0       |
+
 The structure of the ANN is the following
 ![ANN structure](images/ANN_structure.PNG)
 
