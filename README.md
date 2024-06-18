@@ -17,6 +17,18 @@ The structure of the ANN is the following
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 The instructions when running the code
 ![Instructions](images/Instructions.PNG)
 
