@@ -23,7 +23,7 @@ The values of the XOR logic gate are the following:
 |    1    |    0    |      1       |
 |    1    |    1    |      0       |
 
-This means that for the ANN, (0,0) should give a result approaching 0, (0,1) a result approaching 1, and so on...
+This means that for the ANN, 0 and 0 should give a result approaching 0, 0 and 1 a result approaching 1, and so on...
 
 
 The instructions when running the code
