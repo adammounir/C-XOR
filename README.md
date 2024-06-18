@@ -1,5 +1,5 @@
 # XOR-ANN-from-scratch
-**XOR prediction value using Artificial Neural Network - Coded from scratch - Using C language** 
+**XOR prediction value using Artificial Neural Network - Coded from scratch - Using C language - Coded in 2021** 
 
 This project is a first initiation to the Deep Learning field using the programmation language C. 
 
