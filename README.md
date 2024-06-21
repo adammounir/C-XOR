@@ -1,7 +1,7 @@
 # XOR-ANN-from-scratch
 **XOR prediction value using Artificial Neural Network - Coded from scratch - Using C language - Coded in 2021** 
 
-This project is a first initiation to the Deep Learning field using the programmation language C. 
+This project is a first initiation to the Deep Learning field using the programmation language C. The aim of this project is to develop and train an ANN so it can be able to predict the output value of the XOR logic gate with two input values
 
 Commmand to execute the code (project includes a Makefile): 
 ```bash
