@@ -41,7 +41,7 @@ Then you can compute a specific value for the XOR logic gate
 
 
 
-Knowledge used to build this project : 
+Resources used to build this project : 
 ###### https://towardsdatascience.com/part-2-gradient-descent-and-backpropagation-bf90932c066a
 ###### https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
 
